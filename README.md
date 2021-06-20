@@ -6,8 +6,7 @@ Answers include:
 
 <ul>
             <li>As i see it yes.</li>
-       
-            <li>Signs point to yes.</li>
+       <li>Signs point to yes.</li>
             <li>Don't count on it.</li>
       
           <li>Reply hazy, please try again>/li>
