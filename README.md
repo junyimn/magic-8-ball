@@ -9,15 +9,14 @@ Answers include:
        
             <li>Signs point to yes.</li>
             <li>Don't count on it.</li>
-        } else if (rand == 3) {
-            System.out.println("Reply hazy, please try again");
-        } else if (rand == 4) {
-            System.out.println("Outlook not so good.");
-        }  else if (rand == 5) {
-        System.out.println("HELL YEAH!");
-        } else if (rand == 6) {
-            System.out.println("HELL NO!");
-        } else if (rand == 7) {
-            System.out.println("With a little bit more persistence, yes!");
-        }
+      
+          <li>Reply hazy, please try again>/li>
+       
+            <li>Outlook not so good.
+       
+     HELL YEAH!
+       
+        HELL NO!
+        
+         With a little bit more persistence, yes!
 </ul>
