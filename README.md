@@ -6,14 +6,11 @@ Answers include:
 
 <ul>
             <li>As i see it yes.</li>
-       <li>Signs point to yes.</li>
+            <li>Signs point to yes.</li>
             <li>Don't count on it.</li>
-     <li>Reply hazy, please try again>/li>
-      <li>Outlook not so good.
-       
+             <li>Reply hazy, please try again>/li>
+            <li>Outlook not so good</li>
             <li>HELL YEAH!</li>
-       
             <li>HELL NO!</li>
-        
             <li>With a little bit more persistence, yes!</li>
 </ul>
