@@ -8,14 +8,12 @@ Answers include:
             <li>As i see it yes.</li>
        <li>Signs point to yes.</li>
             <li>Don't count on it.</li>
-      
-          <li>Reply hazy, please try again>/li>
+     <li>Reply hazy, please try again>/li>
+      <li>Outlook not so good.
        
-            <li>Outlook not so good.
+            <li>HELL YEAH!</li>
        
-     HELL YEAH!
-       
-        HELL NO!
+            <li>HELL NO!</li>
         
-         With a little bit more persistence, yes!
+            <li>With a little bit more persistence, yes!</li>
 </ul>
