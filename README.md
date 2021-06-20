@@ -4,12 +4,11 @@ A super small project creating a tradtional magic 8 ball machine which will answ
 
 Answers include:
 
-if(rand == 0) {
-            System.out.println("As i see it yes.");
-        } else if (rand == 1) {
-            System.out.println("Signs point to yes.");
-        } else if (rand == 2) {
-            System.out.println("Don't count on it.");
+<ul>
+            <li>As i see it yes.</li>
+       
+            <li>Signs point to yes.</li>
+            <li>Don't count on it.</li>
         } else if (rand == 3) {
             System.out.println("Reply hazy, please try again");
         } else if (rand == 4) {
@@ -21,3 +20,4 @@ if(rand == 0) {
         } else if (rand == 7) {
             System.out.println("With a little bit more persistence, yes!");
         }
+</ul>
